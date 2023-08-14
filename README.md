@@ -13,7 +13,7 @@ This repository is divided into chapters. Each chapter is divided into two subfo
 2. **Applied Exercises:** This contains Python Codes from Applied Exercises from each chapter. The Applied Exercises will contain some sub-questions which ask the reader to interpret the model rather than code it. I will provide solutions to those questions for the sake of completeness, when applicable.
 
 ## Table of Contents
-1. [Chapter 3: Linear Regression]([https://bit.ly/2VsS4cL](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%203))
+1. [Chapter 3: Linear Regression](https://bit.ly/2VsS4cL](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%203)
 2. [Chapter 4: Classification]([http://bit.ly/2H862gG](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%204))
 3. [Chapter 5: Resampling Methods]([http://bit.ly/2RIQ4Ou](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%205))
 4. [Chapter 6: Linear Model Selection and Regularization]([http://bit.ly/2FEiza8](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%206))

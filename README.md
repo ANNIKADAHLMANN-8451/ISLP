@@ -13,11 +13,11 @@ This repository is divided into chapters. Each chapter is divided into two subfo
 2. **Applied Exercises:** This contains Python Codes from Applied Exercises from each chapter. The Applied Exercises will contain some sub-questions which ask the reader to interpret the model rather than code it. I will provide solutions to those questions for the sake of completeness, when applicable.
 
 ## Table of Contents
-1. [Chapter 3: Linear Regression](https://bit.ly/2VsS4cL](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%203)
-2. [Chapter 4: Classification]([http://bit.ly/2H862gG](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%204))
-3. [Chapter 5: Resampling Methods]([http://bit.ly/2RIQ4Ou](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%205))
-4. [Chapter 6: Linear Model Selection and Regularization]([http://bit.ly/2FEiza8](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%206))
-5. [Chapter 7: Moving Beyod Linearity]([http://bit.ly/2CNtKK7](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%207))
-6. [Chapter 8: Tree-Based Methods]([http://bit.ly/2sTm6Jm](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%208))
-7. [Chapter 9: Support Vector Machines]([http://bit.ly/2sXz1Ko](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%209))
-8. [Chapter 12: Unsupervised Learning]([http://bit.ly/2GlxkiJ](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%2012))
+1. [Chapter 3: Linear Regression](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%203)
+2. [Chapter 4: Classification](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%204)
+3. [Chapter 5: Resampling Methods](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%205)
+4. [Chapter 6: Linear Model Selection and Regularization](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%206)
+5. [Chapter 7: Moving Beyod Linearity](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%207)
+6. [Chapter 8: Tree-Based Methods](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%208)
+7. [Chapter 9: Support Vector Machines](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%209)
+8. [Chapter 12: Unsupervised Learning](https://github.com/ANNIKADAHLMANN-8451/ISLP/tree/main/Chapter%2012)

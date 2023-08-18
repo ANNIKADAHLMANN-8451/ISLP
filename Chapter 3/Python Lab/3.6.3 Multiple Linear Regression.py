@@ -13,7 +13,6 @@ import seaborn as sns
 
 # COMMAND ----------
 
-# load and visualise data
 # import dataset and preprocess
 url = "abfss://training@sa8451learningdev.dfs.core.windows.net/interpretable_machine_learning/eml_data/Boston.csv"
 Boston = spark.read.option("header", "true").csv(url).toPandas().astype(float)
@@ -67,4 +66,5 @@ vif["Variance Inflation Factor"]
 vif["Features"]
 
 # COMMAND ----------
+
 
